@@ -1,4 +1,3 @@
-**********************************************************************************************
 Following document is written while developing/testing internal modules on Linux Ubuntu 4.18.0
 -----------------------------------------------------------------------------------------------
                             For Internal Dynamic Modules
